@@ -8,8 +8,10 @@ login.jsp
 ![image](https://github.com/user-attachments/assets/68533a95-e863-4f73-bbd0-46100aca0c51)
 welcome.jsp
 ![image](https://github.com/user-attachments/assets/abf604a0-b723-4033-b06b-af98df4d454a)
-UserList.jsp
+UserList.jsp (sebelum diisi)
 ![image](https://github.com/user-attachments/assets/37801d48-41c3-4be8-bdf9-eff6ff030b4b)
+UserList.jsp (sesudah diisi)
+![image](https://github.com/user-attachments/assets/19586975-1d39-49e1-b301-4404d8719a6a)
 addUser.jsp
 ![image](https://github.com/user-attachments/assets/dd5e1950-3d85-45f0-aba7-5d14a0c799e8)
 editUser.jsp
